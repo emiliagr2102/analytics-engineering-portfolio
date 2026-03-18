@@ -1,6 +1,3 @@
-# analytics-engineering-portfolio
-Modern Analytics Engineering Portfolio | dbt, Medallion Architecture, Data Vault &amp; End-to-End Data Pipelines
-
 # Analytics Engineering Portfolio
 
 This repository showcases end-to-end analytics engineering projects built using modern data stack tools and industry-standard data modeling methodologies.
