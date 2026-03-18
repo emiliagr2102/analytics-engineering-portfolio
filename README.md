@@ -37,7 +37,7 @@ Each project simulates real-world business use cases and focuses on transforming
 
 ----
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * dbt
 * DuckDB / BigQuery
@@ -46,7 +46,7 @@ Each project simulates real-world business use cases and focuses on transforming
 
 ---
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * Data modeling and transformation
 * Analytics engineering best practices
@@ -56,13 +56,13 @@ Each project simulates real-world business use cases and focuses on transforming
 
 ---
 
-## 📌 Goal
+## Goal
 
 To build production-grade data pipelines and models that enable reliable analytics and decision-making.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Analytics Engineer with a background in data science, GIS, and business strategy. Passionate about building data systems that create clarity and impact.
 
